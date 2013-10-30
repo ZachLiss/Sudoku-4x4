@@ -1,0 +1,42 @@
+body { background-color: 362A22; padding-top: 30px; }
+#theGame {
+	border: 5px solid;
+	background-color: #FF893B;
+	width: 375px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.board {
+	background-color: #DFC7FF;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	border: 2px solid;
+}
+.out {
+	border: 2px solid;
+	width: 68px;
+	height: 68px;
+	text-align: center;
+	vertical-align: middle;
+}
+#moveCount { text-align: center; }
+#buttons {
+	background-color: #FF893B;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+h1 { text-align: center; }
+h2 { padding-top: 16px; }
+.inner {
+	margin-right: auto;
+	margin-left: auto;
+}
+button {
+	background-color: #DFC7FF;
+}
